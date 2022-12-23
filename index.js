@@ -6,4 +6,4 @@ function findSecondLargest(arr){
 				}
 			}
 		}
-		console.log(findSecondLargest([2,3,4,6,6,5]));
+		console.log(findSecondLargest("second largest element is:"[2,3,4,6,6,5]));
